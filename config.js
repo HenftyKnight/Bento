@@ -55,13 +55,13 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com/henftyknight',
 		},
 		{
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/mail/u/1/#inbox',
 		},
 		{
 			id: '3',
@@ -110,7 +110,7 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Amazon',
+			name: 'dCode',
 			icon: 'shopping-bag',
 			link: 'https://amazon.com/',
 		},
